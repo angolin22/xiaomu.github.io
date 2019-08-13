@@ -1,0 +1,58 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    <url>
+      <loc>https://xiaolinfan.github.io/posts/installblog/</loc>
+      
+      <lastmod>2019-08-13T09:31:27+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://xiaolinfan.github.io/</loc>
+      
+      <lastmod>2019-08-13T09:31:27+08:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://xiaolinfan.github.io/posts/</loc>
+      
+      <lastmod>2019-08-13T09:31:27+08:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://xiaolinfan.github.io/categories/</loc>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://xiaolinfan.github.io/tags/</loc>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+</urlset>
