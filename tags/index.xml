@@ -6,9 +6,28 @@
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 13 Aug 2019 10:15:14 +0800</lastBuildDate>
     
 	<atom:link href="https://xiaolinfan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>parasite</title>
+      <link>https://xiaolinfan.github.io/tags/parasite/</link>
+      <pubDate>Tue, 13 Aug 2019 10:15:14 +0800</pubDate>
+      
+      <guid>https://xiaolinfan.github.io/tags/parasite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://xiaolinfan.github.io/tags/hugo/</link>
+      <pubDate>Tue, 13 Aug 2019 09:31:27 +0800</pubDate>
+      
+      <guid>https://xiaolinfan.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

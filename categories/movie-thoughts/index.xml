@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>@Movie thoughts on My New Hugo Site</title>
+    <link>https://xiaolinfan.github.io/categories/movie-thoughts/</link>
+    <description>Recent content in @Movie thoughts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Aug 2019 10:15:14 +0800</lastBuildDate>
+    
+	<atom:link href="https://xiaolinfan.github.io/categories/movie-thoughts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Parasite</title>
+      <link>https://xiaolinfan.github.io/2019/parasite/</link>
+      <pubDate>Tue, 13 Aug 2019 10:15:14 +0800</pubDate>
+      
+      <guid>https://xiaolinfan.github.io/2019/parasite/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

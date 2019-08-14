@@ -24,7 +24,31 @@
     </url>
   
     <url>
-      <loc>https://xiaolinfan.github.io/2019/movie1/</loc>
+      <loc>https://xiaolinfan.github.io/categories/movie-thoughts/</loc>
+      
+      <lastmod>2019-08-13T10:15:14+08:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://xiaolinfan.github.io/categories/</loc>
+      
+      <lastmod>2019-08-13T10:15:14+08:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://xiaolinfan.github.io/2019/parasite/</loc>
       
       <lastmod>2019-08-13T10:15:14+08:00</lastmod>
       
@@ -46,7 +70,31 @@
     </url>
   
     <url>
-      <loc>https://xiaolinfan.github.io/categories/</loc>
+      <loc>https://xiaolinfan.github.io/tags/</loc>
+      
+      <lastmod>2019-08-13T10:15:14+08:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://xiaolinfan.github.io/tags/parasite/</loc>
+      
+      <lastmod>2019-08-13T10:15:14+08:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://xiaolinfan.github.io/categories/install/</loc>
       
       <lastmod>2019-08-13T09:31:27+08:00</lastmod>
       
@@ -68,19 +116,9 @@
     </url>
   
     <url>
-      <loc>https://xiaolinfan.github.io/categories/software/</loc>
+      <loc>https://xiaolinfan.github.io/tags/hugo/</loc>
       
       <lastmod>2019-08-13T09:31:27+08:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://xiaolinfan.github.io/tags/</loc>
       
       
       

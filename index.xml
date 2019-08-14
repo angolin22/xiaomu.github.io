@@ -18,21 +18,74 @@
     </item>
     
     <item>
-      <title>Movie1</title>
-      <link>https://xiaolinfan.github.io/2019/movie1/</link>
+      <title>Parasite</title>
+      <link>https://xiaolinfan.github.io/2019/parasite/</link>
       <pubDate>Tue, 13 Aug 2019 10:15:14 +0800</pubDate>
       
-      <guid>https://xiaolinfan.github.io/2019/movie1/</guid>
-      <description></description>
+      <guid>https://xiaolinfan.github.io/2019/parasite/</guid>
+      <description>&lt;div style=&#34;padding-bottom: 200px;&#34;&gt;&lt;img src=&#34;https://img1.doubanio.com/view/photo/l/public/p2557391568.webp&#34; width=&#34;150&#34; height=&#34;100&#34; align=&#34;left&#34; /&gt;&lt;/div&gt;
+</description>
     </item>
     
     <item>
-      <title>Installblog</title>
+      <title>Hugo Installation and Blog Creation</title>
       <link>https://xiaolinfan.github.io/2019/installblog/</link>
       <pubDate>Tue, 13 Aug 2019 09:31:27 +0800</pubDate>
       
       <guid>https://xiaolinfan.github.io/2019/installblog/</guid>
-      <description></description>
+      <description>
+
+&lt;h1 id=&#34;center-hugo-installation-and-blog-creation-center&#34;&gt;&lt;center&gt;Hugo Installation and Blog Creation&lt;/center&gt;&lt;/h1&gt;
+
+&lt;h2 id=&#34;一-install-hugo&#34;&gt;一、Install Hugo&lt;/h2&gt;
+
+&lt;h3 id=&#34;1-download-hugo-binary-file-https-github-com-gohugoio-hugo-releases&#34;&gt;1. Download &lt;a href=&#34;https://github.com/gohugoio/hugo/releases&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;hugo binary file&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;2-hugo-binary-file-doesn-t-need-to-be-installed-just-add-paths-to-system-environment-variable-path-my-computer-attribute-advanced-system-settings-environment-variable-then-select-path-click-edit-and-finally-copy-location-of-hugo-binary-file-to-path&#34;&gt;2. Hugo binary file doesn&amp;rsquo;t need to be installed,just add paths to system environment variable PATH.(My Computer-Attribute-Advanced System Settings-Environment Variable)Then select PATH,click Edit,and finally copy location of hugo binary file to PATH.&lt;/h3&gt;
+
+&lt;p&gt;(PS. this is windows system.if mac,you can use package management tool—brew.)&lt;/p&gt;
+
+&lt;h2 id=&#34;二-generate-site&#34;&gt;二、Generate site&lt;/h2&gt;
+
+&lt;h3 id=&#34;1-command-line-hugo-new-site-site-s-name-eg-hugo-new-site-myblog-default-installation-on-c-disk&#34;&gt;1. command line—hugo new site [site&amp;rsquo;s name].(eg. &lt;code&gt;hugo new site myblog&lt;/code&gt;,default installation on C disk.)&lt;/h3&gt;
+
+&lt;h3 id=&#34;2-command-line-hugo-new-site-site-s-name-eg-hugo-new-site-e-mybloy&#34;&gt;2. command line—hugo new site [site&amp;rsquo;s name].(eg. &lt;code&gt;hugo new site E:/mybloy&lt;/code&gt;)&lt;/h3&gt;
+
+&lt;h2 id=&#34;三-set-theme&#34;&gt;三、Set theme&lt;/h2&gt;
+
+&lt;h3 id=&#34;1-find-theme-of-hugo-https-themes-gohugo-io&#34;&gt;1. Find &lt;a href=&#34;https://themes.gohugo.io/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;theme of hugo&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;2-not-the-root-directory-under-the-themes-directory-and-clone-theme-git-clone-https-github-com-liuzc-leaveit-git&#34;&gt;2. Not the root directory under the themes directory,and clone theme(&lt;code&gt;git clone https://github.com/liuzc/LeaveIt.git&lt;/code&gt;)&lt;/h3&gt;
+
+&lt;h2 id=&#34;四-local-startup&#34;&gt;四、Local startup&lt;/h2&gt;
+
+&lt;h3 id=&#34;1-under-root-directory-to-implement-command-line-hugo-server-t-leaveit-builddrafts-t-represent-theme-and-leaveit-reprement-the-name-of-the-theme-installed&#34;&gt;1. Under root directory to implement command line—&lt;code&gt;hugo server -t leaveit --buildDrafts&lt;/code&gt;(-t represent theme,and leaveit reprement the name of the theme installed.)&lt;/h3&gt;
+
+&lt;h3 id=&#34;2-under-root-directory-to-create-artical-to-implement-command-line-hugo-new-path-name-md-markdown-eg-hugo-new-post-index-md&#34;&gt;2. Under root directory to create artical to implement command line—hugo new [path+name.md()markdown].(eg. &lt;code&gt;hugo new post/index.md&lt;/code&gt;)&lt;/h3&gt;
+
+&lt;h2 id=&#34;五-deploy-to-git&#34;&gt;五、Deploy to Git&lt;/h2&gt;
+
+&lt;h3 id=&#34;1-create-a-repository&#34;&gt;1. Create a repository&lt;/h3&gt;
+
+&lt;h3 id=&#34;2-hugo-relate-git-and-generate-a-public-file-command-line-hugo-theme-leaveit-baseurl-https-xiaolinfan-github-io-builddrafts&#34;&gt;2. Hugo relate git,and generate a &lt;em&gt;public&lt;/em&gt; file. command line—&lt;code&gt;hugo --theme=leaveit --baseUrl=&amp;quot;https://xiaolinfan.github.io/&amp;quot; --buildDrafts&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;3-just-upload-public-file-to-git-and-here-s-the-command-line&#34;&gt;3. Just upload public file to git,and here&amp;rsquo;s the command line&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;git init
+git add .
+git commit -m &amp;quot;notes&amp;quot;
+git remote add origin https://github.com/xiaolinfan/xiaolinfan.github.io.git
+git push -u origin master
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;六-perfect-blog&#34;&gt;六、Perfect blog&lt;/h2&gt;
+
+&lt;h3 id=&#34;1-site-setting-in-the-config-toml&#34;&gt;1. Site setting in the config.toml&lt;/h3&gt;
+
+&lt;h3 id=&#34;2-when-add-categories-and-tags-notice-that-there-is-a-space-behind-the-otherwise-the-error-will-be-reported&#34;&gt;2. When add categories and tags,notice that there is a space behind the &amp;ldquo;:&amp;ldquo;,otherwise the error will be reported.&lt;/h3&gt;
+
+&lt;h3 id=&#34;3-after-adding-blog-you-can-deploy-from-step-六-or-implement-deploy-sh-continued&#34;&gt;3. After adding blog,you can deploy from step 六,or implement &lt;em&gt;deploy.sh&lt;/em&gt;(continued)&lt;/h3&gt;
+</description>
     </item>
     
   </channel>
