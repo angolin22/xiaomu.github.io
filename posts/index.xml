@@ -6,10 +6,19 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Aug 2019 10:15:14 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2019 11:09:19 +0800</lastBuildDate>
     
 	<atom:link href="https://xiaolinfan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Errortoright</title>
+      <link>https://xiaolinfan.github.io/2019/errortoright/</link>
+      <pubDate>Wed, 14 Aug 2019 11:09:19 +0800</pubDate>
+      
+      <guid>https://xiaolinfan.github.io/2019/errortoright/</guid>
+      <description> Error-1 1-1 Git commit error — Updates were rejected because the remote contains work that you do 1-2 Git commit error resolution  git init //初始化仓库 git add .(文件name) //添加文件到本地仓库 git commit -m &amp;quot;first commit&amp;quot; //添加文件描述信息 git remote add origin + 远程仓库地址 //链接远程仓库，创建主分支 *git pull origin master // 把本地仓库的变化连接到远程仓库主分支* git push -u origin master //把本地仓库的文件推送到远程仓库  </description>
+    </item>
     
     <item>
       <title>Parasite</title>

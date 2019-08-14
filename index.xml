@@ -5,8 +5,34 @@
     <description>Recent content in My New Hugo Site on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Aug 2019 17:35:43 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2019 11:09:19 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Errortoright</title>
+      <link>https://xiaolinfan.github.io/2019/errortoright/</link>
+      <pubDate>Wed, 14 Aug 2019 11:09:19 +0800</pubDate>
+      
+      <guid>https://xiaolinfan.github.io/2019/errortoright/</guid>
+      <description>
+
+&lt;h3 id=&#34;error-1&#34;&gt;Error-1&lt;/h3&gt;
+
+&lt;h4 id=&#34;1-1-git-commit-error-updates-were-rejected-because-the-remote-contains-work-that-you-do&#34;&gt;1-1 Git commit error — Updates were rejected because the remote contains work that you do&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../errorimgs/giterror1.PNG&#34; alt=&#34;commiterror&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;1-2-git-commit-error-resolution&#34;&gt;1-2 Git commit error resolution&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt; git init //初始化仓库
+ git add .(文件name) //添加文件到本地仓库
+ git commit -m &amp;quot;first commit&amp;quot; //添加文件描述信息
+ git remote add origin + 远程仓库地址 //链接远程仓库，创建主分支
+*git pull origin master // 把本地仓库的变化连接到远程仓库主分支*
+ git push -u origin master //把本地仓库的文件推送到远程仓库
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
     
     <item>
       <title>About</title>
