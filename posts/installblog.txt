@@ -24,6 +24,7 @@ git init
 git add .
 git commit -m "注释这次提交内容"
 git remote add origin https://github.com/xiaolinfan/xiaolinfan.github.io.git 本地站点和远程仓库进行关联
+若出现错误则增加git pull origin master
 git push -u origin master推到远程的master
 
 七、完善博客

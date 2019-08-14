@@ -6,17 +6,26 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Aug 2019 11:09:19 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2019 17:01:18 +0800</lastBuildDate>
     
 	<atom:link href="https://xiaolinfan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Errortoright</title>
-      <link>https://xiaolinfan.github.io/2019/errortoright/</link>
+      <title>ErrorGoogle</title>
+      <link>https://xiaolinfan.github.io/2019/errorgoogle/</link>
+      <pubDate>Wed, 14 Aug 2019 17:01:18 +0800</pubDate>
+      
+      <guid>https://xiaolinfan.github.io/2019/errorgoogle/</guid>
+      <description>Error-2 1-1 Google installation failure — Uploading google isn&amp;rsquo;t complete so that installing isn&amp;rsquo;t success 1-2 Google installation failure resolution Firstly,delete google default files.then,copy the content of &amp;ldquo;http://www.google.com/support/chrome/bin/resource/remove.txt&amp;quot; into &amp;ldquo;.txt&amp;rdquo;.Finally, modify to &amp;ldquo;.reg&amp;rdquo; and implement. Windows Registry Editor Version 5.00 ; WARNING, this file will remove Google Chrome registry entries ; from your Windows Registry. Consider backing up your registry before ; using this file: http://support.microsoft.com/kb/322756 ; To run this file, save it as &#39;remove.</description>
+    </item>
+    
+    <item>
+      <title>ErrortGit</title>
+      <link>https://xiaolinfan.github.io/2019/errortgit/</link>
       <pubDate>Wed, 14 Aug 2019 11:09:19 +0800</pubDate>
       
-      <guid>https://xiaolinfan.github.io/2019/errortoright/</guid>
+      <guid>https://xiaolinfan.github.io/2019/errortgit/</guid>
       <description> Error-1 1-1 Git commit error — Updates were rejected because the remote contains work that you do 1-2 Git commit error resolution  git init //初始化仓库 git add .(文件name) //添加文件到本地仓库 git commit -m &amp;quot;first commit&amp;quot; //添加文件描述信息 git remote add origin + 远程仓库地址 //链接远程仓库，创建主分支 *git pull origin master // 把本地仓库的变化连接到远程仓库主分支* git push -u origin master //把本地仓库的文件推送到远程仓库  </description>
     </item>
     

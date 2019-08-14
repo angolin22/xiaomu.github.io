@@ -4,7 +4,7 @@
     <url>
       <loc>https://xiaolinfan.github.io/categories/procedural-error/</loc>
       
-      <lastmod>2019-08-14T11:09:19+08:00</lastmod>
+      <lastmod>2019-08-14T17:01:18+08:00</lastmod>
       
       
       
@@ -16,7 +16,7 @@
     <url>
       <loc>https://xiaolinfan.github.io/categories/</loc>
       
-      <lastmod>2019-08-14T11:09:19+08:00</lastmod>
+      <lastmod>2019-08-14T17:01:18+08:00</lastmod>
       
       
       
@@ -26,9 +26,9 @@
     </url>
   
     <url>
-      <loc>https://xiaolinfan.github.io/2019/errortoright/</loc>
+      <loc>https://xiaolinfan.github.io/2019/errorgoogle/</loc>
       
-      <lastmod>2019-08-14T11:09:19+08:00</lastmod>
+      <lastmod>2019-08-14T17:01:18+08:00</lastmod>
       
       
       
@@ -38,7 +38,7 @@
     <url>
       <loc>https://xiaolinfan.github.io/</loc>
       
-      <lastmod>2019-08-14T11:09:19+08:00</lastmod>
+      <lastmod>2019-08-14T17:01:18+08:00</lastmod>
       
       
       
@@ -50,7 +50,7 @@
     <url>
       <loc>https://xiaolinfan.github.io/posts/</loc>
       
-      <lastmod>2019-08-14T11:09:19+08:00</lastmod>
+      <lastmod>2019-08-14T17:01:18+08:00</lastmod>
       
       
       
@@ -62,11 +62,33 @@
     <url>
       <loc>https://xiaolinfan.github.io/tags/</loc>
       
-      <lastmod>2019-08-14T11:09:19+08:00</lastmod>
+      <lastmod>2019-08-14T17:01:18+08:00</lastmod>
       
       
       
       <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://xiaolinfan.github.io/tags/google/</loc>
+      
+      <lastmod>2019-08-14T17:01:18+08:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://xiaolinfan.github.io/2019/errortgit/</loc>
+      
+      <lastmod>2019-08-14T11:09:19+08:00</lastmod>
+      
+      
       
       
     </url>
