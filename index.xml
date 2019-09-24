@@ -5,8 +5,90 @@
     <description>Recent content in My New Hugo Site on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Aug 2019 17:01:18 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2019 15:26:06 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Conference Paper</title>
+      <link>https://xiaolinfan.github.io/2019/paperconference/</link>
+      <pubDate>Tue, 24 Sep 2019 15:26:06 +0800</pubDate>
+      
+      <guid>https://xiaolinfan.github.io/2019/paperconference/</guid>
+      <description>
+
+&lt;h3 id=&#34;如何收集和整理论文-https-ying-zhang-github-io-misc-2016-we-love-paper&#34;&gt;&lt;a href=&#34;https://ying-zhang.github.io/misc/2016/we-love-paper/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;&amp;ndash;&amp;gt;如何收集和整理论文&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h1 id=&#34;一-查论文&#34;&gt;一、查论文&lt;/h1&gt;
+
+&lt;h2 id=&#34;1-dblp&#34;&gt;1、dblp&lt;/h2&gt;
+
+&lt;p&gt;dblp [&lt;a href=&#34;https://dblp.org&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;https://dblp.org&lt;/a&gt;] ，或[&lt;a href=&#34;https://dblp.uni-trier.de]，&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;https://dblp.uni-trier.de]，&lt;/a&gt; 是专注于CS学科的文献 元数据索引 数据库，优势是收集得相当完整，链接也很有规律，但只能搜索标题或作者等元数据，用来初步筛选论文非常方便，需要获取全文时还是要跳转到下面的几个数据库，数据更新也稍微滞后一点。&lt;/p&gt;
+
+&lt;h2 id=&#34;2-ei-和-sci&#34;&gt;2、EI 和 SCI&lt;/h2&gt;
+
+&lt;p&gt;EI和SCI为聚合数据库，又称为索引。这两个数据库可以免费检索标题和摘要，购买全文则价格不菲。如果学校的图书馆购买了这些数据库，一般会识别用户的IP地址，在学校网络范围内可以直接下载PDF全文。&lt;br /&gt;
+* EI(Engineering Index) &lt;a href=&#34;https://www.engineeringvillage.com/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;https://www.engineeringvillage.com/&lt;/a&gt;&lt;br /&gt;
+* SCI(Science Citation Index) &lt;a href=&#34;http://apps.webofknowledge.com/**&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://apps.webofknowledge.com/**&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;二-下载全文-cs论文数据库&#34;&gt;二、下载全文——CS论文数据库&lt;/h1&gt;
+
+&lt;h2 id=&#34;1-acm-ieee等-下载论文全文要去-dl-的页面&#34;&gt;1、ACM、IEEE等，下载论文全文要去(DL)的页面&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;机构&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Digital Library(DL)&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;机构Home&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Association for Computing Machinery, ACM&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;ACM Digital Library &lt;a href=&#34;https://dl.acm.org/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;https://dl.acm.org/&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;https://www.acm.org/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;https://www.acm.org/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;IEEE Computer Society&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;IEEE Xplore DL &lt;a href=&#34;http://ieeexplore.ieee.org/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://ieeexplore.ieee.org/&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;https://www.computer.org/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;https://www.computer.org/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Elsevier ScienceDirect&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.sciencedirect.com/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://www.sciencedirect.com/&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;https://www.elsevier.com/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;https://www.elsevier.com/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Springer&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Springer Link &lt;a href=&#34;http://link.springer.com/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://link.springer.com/&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;http://www.springer.com/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://www.springer.com/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Wiley&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Wiley Online Lib &lt;a href=&#34;http://onlinelibrary.wiley.com/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://onlinelibrary.wiley.com/&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;http://www.wiley.com/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://www.wiley.com/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;2-谷歌搜索&#34;&gt;2、谷歌搜索&lt;/h2&gt;
+
+&lt;h1 id=&#34;三-数据库顶级会议&#34;&gt;三、数据库顶级会议&lt;/h1&gt;
+
+&lt;h2 id=&#34;1-acm-sigmod-https-sigmod-org&#34;&gt;1、&lt;em&gt;ACM&lt;/em&gt; —&lt;a href=&#34;https://sigmod.org/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;SIGMOD&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;2-vldb-http-vldb-org-pvldb-vol6-html-opennewwindow-可在网页内下载&#34;&gt;2、&lt;a href=&#34;http://vldb.org/pvldb/vol6.html#opennewwindow&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;VLDB&lt;/a&gt;(可在网页内下载)&lt;/h2&gt;
+
+&lt;h2 id=&#34;3-ieee-icde-https-www-icde-org&#34;&gt;3、&lt;em&gt;IEEE&lt;/em&gt; —&lt;a href=&#34;https://www.icde.org&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;ICDE&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;4-acm-sigkdd-https-www-kdd-org&#34;&gt;4、&lt;em&gt;ACM&lt;/em&gt; —&lt;a href=&#34;https://www.kdd.org/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;SIGKDD&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
     
     <item>
       <title>ErrorGoogle</title>
