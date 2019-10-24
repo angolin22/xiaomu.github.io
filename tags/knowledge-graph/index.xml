@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knowledge Graph on My New Hugo Site</title>
+    <link>https://xiaolinfan.github.io/tags/knowledge-graph/</link>
+    <description>Recent content in Knowledge Graph on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Oct 2019 09:25:44 +0800</lastBuildDate>
+    
+	<atom:link href="https://xiaolinfan.github.io/tags/knowledge-graph/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Knowledge Graph Forum in Bit</title>
+      <link>https://xiaolinfan.github.io/2019/kg_bit_1/</link>
+      <pubDate>Thu, 24 Oct 2019 09:25:44 +0800</pubDate>
+      
+      <guid>https://xiaolinfan.github.io/2019/kg_bit_1/</guid>
+      <description>——&amp;gt;本篇是听论坛后我所感兴趣的总结，具体的技术原理没有展示，若想要了解，请参考文末的文档链接 一、知识图谱发展历史 语义网络 —— 1960年提出节点表示概念、对象，边表示节点间关系的语义网络 本体 —— 1980年本体别提出，本体即概念、实体最高层的抽象 万维网 —— 1989年提出万维网，即超文本链接，是指网页之间的链接，其中最小的粒度是网页page 语义网 —— 1998年语义网被提出，语义网是让机器能够理解数据，是指网页中数据、资源之间的链接，其中最小粒度是数据data/thing 链接数据 —— 2006年提出链接数据，即在不同数据集中创建链接 知识图谱 —— 2012年谷歌应用知识图谱明显提高了搜索引擎的质量 二、知识图谱应用场景 1. 网络行为动态分析 &amp;emsp;1. 舆情监测 &amp;emsp;2. 热点追踪 &amp;emsp;3. 用户情感倾向分析 - 网络暴力、键盘侠 &amp;emsp;4. 社交网络影响力分析 - 明星品牌代言 2. 智能QA &amp;emsp;1. 人机交互 - 天猫精灵 3. 智能推荐 &amp;emsp;1. 用户兴趣追踪 &amp;emsp;2. 产品关联发掘 &amp;emsp;3. 动态场景分析 三、知识图谱机遇挑战    机遇挑战 描述     嫁接语言表达(Vocabulary Gap) 词汇知识(同义词、上下位词、反义词、缩略词)嫁接，例如司机和乘客对同一件事的说法，尤其司法的一意多表现象   补全缺失的因果链条 大多是业务结果数据，缺少产生这些数据的背景因果,典型例子是爸爸买尿布会同时买啤酒的因果   碎片化数据的关联和融合 实现碎片数据的自主、普适融合   农业、工业、服务业的应用 大多应用到服务业，农业和工业还没有广泛应用   与其他知识表示的协同表示于推理 大规模知识图谱与逻辑规则、概率图模型、隐变量结合;开放世界假设下的推理   常识知识的多模态数据获取和表示 常识匮乏的根本原因在于常识隐性蕴含于多模态数据中;知识的多模态表示   知识图谱应用透明化 无需用户了解知识图谱技术而直接应用，直接学习构建schema   文档级的信息抽取和自动生成 从句子级别抽取到篇章级别抽取，例如说明书;司法领域的裁判文书的自动生成    文档链接 提取码：tdm5 THINK——2019.</description>
+    </item>
+    
+  </channel>
+</rss>

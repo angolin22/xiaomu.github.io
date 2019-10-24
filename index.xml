@@ -5,8 +5,123 @@
     <description>Recent content in My New Hugo Site on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Sep 2019 15:26:06 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2019 09:25:44 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First Knowledge Graph Forum in Bit</title>
+      <link>https://xiaolinfan.github.io/2019/kg_bit_1/</link>
+      <pubDate>Thu, 24 Oct 2019 09:25:44 +0800</pubDate>
+      
+      <guid>https://xiaolinfan.github.io/2019/kg_bit_1/</guid>
+      <description>
+
+&lt;h3 id=&#34;font-color-3399cc-本篇是听论坛后我所感兴趣的总结-具体的技术原理没有展示-若想要了解-请参考文末的文档链接-font&#34;&gt;&lt;font color=&#34;3399cc&#34;&gt; ——&amp;gt;本篇是听论坛后我所感兴趣的总结，具体的技术原理没有展示，若想要了解，请参考文末的文档链接&lt;/font&gt;&lt;/h3&gt;
+
+&lt;h1 id=&#34;一-知识图谱发展历史&#34;&gt;一、知识图谱发展历史&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../images/KG发展历史.png&#34; alt=&#34;KG发展历史&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;font-color-336699-语义网络-font-1960年提出节点表示概念-对象-边表示节点间关系的语义网络&#34;&gt;&lt;font color=&#34;#336699&#34;&gt;&lt;strong&gt;&lt;em&gt;语义网络&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt; —— 1960年提出节点表示概念、对象，边表示节点间关系的语义网络&lt;/h3&gt;
+
+&lt;h3 id=&#34;font-color-3399cc-本体-font-1980年本体别提出-本体即概念-实体最高层的抽象&#34;&gt;&lt;font color=&#34;#3399cc&#34;&gt;&lt;strong&gt;&lt;em&gt;本体&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt; —— 1980年本体别提出，本体即概念、实体最高层的抽象&lt;/h3&gt;
+
+&lt;h3 id=&#34;font-color-339999-万维网-font-1989年提出万维网-即超文本链接-是指网页之间的链接-其中最小的粒度是网页page&#34;&gt;&lt;font color=&#34;#339999&#34;&gt;&lt;strong&gt;&lt;em&gt;万维网&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt; —— 1989年提出万维网，即超文本链接，是指网页之间的链接，其中最小的粒度是网页page&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../images/page.png&#34; alt=&#34;&#34; width=&#34;15%&#34; height=&#34;50%&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;font-color-669966-语义网-font-1998年语义网被提出-语义网是让机器能够理解数据-是指网页中数据-资源之间的链接-其中最小粒度是数据data-thing&#34;&gt;&lt;font color=&#34;#669966&#34;&gt;&lt;strong&gt;&lt;em&gt;语义网&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt; —— 1998年语义网被提出，语义网是让机器能够理解数据，是指网页中数据、资源之间的链接，其中最小粒度是数据data/thing&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../images/data.png&#34; alt=&#34;&#34; width=&#34;20%&#34; height=&#34;50%&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;font-color-99cc66-链接数据-font-2006年提出链接数据-即在不同数据集中创建链接&#34;&gt;&lt;font color=&#34;#99cc66&#34;&gt;&lt;strong&gt;&lt;em&gt;链接数据&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt; —— 2006年提出链接数据，即在不同数据集中创建链接&lt;/h3&gt;
+
+&lt;h3 id=&#34;font-color-ffcc00-知识图谱-font-2012年谷歌应用知识图谱明显提高了搜索引擎的质量&#34;&gt;&lt;font color=&#34;#ffcc00&#34;&gt;&lt;strong&gt;&lt;em&gt;知识图谱&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt; —— 2012年谷歌应用知识图谱明显提高了搜索引擎的质量&lt;/h3&gt;
+
+&lt;h1 id=&#34;二-知识图谱应用场景&#34;&gt;二、知识图谱应用场景&lt;/h1&gt;
+
+&lt;h3 id=&#34;1-网络行为动态分析&#34;&gt;1. 网络行为动态分析&lt;/h3&gt;
+
+&lt;h4 id=&#34;emsp-1-舆情监测&#34;&gt;&amp;emsp;1. 舆情监测&lt;/h4&gt;
+
+&lt;h4 id=&#34;emsp-2-热点追踪&#34;&gt;&amp;emsp;2. 热点追踪&lt;/h4&gt;
+
+&lt;h4 id=&#34;emsp-3-用户情感倾向分析-font-color-red-网络暴力-键盘侠-font&#34;&gt;&amp;emsp;3. 用户情感倾向分析 - &lt;font color=&#34;red&#34;&gt;网络暴力、键盘侠&lt;/font&gt;&lt;/h4&gt;
+
+&lt;h4 id=&#34;emsp-4-社交网络影响力分析-明星品牌代言&#34;&gt;&amp;emsp;4. 社交网络影响力分析 - 明星品牌代言&lt;/h4&gt;
+
+&lt;h3 id=&#34;2-智能qa&#34;&gt;2. 智能QA&lt;/h3&gt;
+
+&lt;h4 id=&#34;emsp-1-人机交互-天猫精灵&#34;&gt;&amp;emsp;1. 人机交互 - 天猫精灵&lt;/h4&gt;
+
+&lt;h3 id=&#34;3-智能推荐&#34;&gt;3. 智能推荐&lt;/h3&gt;
+
+&lt;h4 id=&#34;emsp-1-用户兴趣追踪&#34;&gt;&amp;emsp;1. 用户兴趣追踪&lt;/h4&gt;
+
+&lt;h4 id=&#34;emsp-2-产品关联发掘&#34;&gt;&amp;emsp;2. 产品关联发掘&lt;/h4&gt;
+
+&lt;h4 id=&#34;emsp-3-动态场景分析&#34;&gt;&amp;emsp;3. 动态场景分析&lt;/h4&gt;
+
+&lt;h1 id=&#34;三-知识图谱机遇挑战&#34;&gt;三、知识图谱机遇挑战&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;机遇挑战&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;嫁接语言表达(Vocabulary Gap)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;词汇知识(同义词、上下位词、反义词、缩略词)嫁接，例如司机和乘客对同一件事的说法，尤其司法的一意多表现象&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;补全缺失的&lt;font color=&#34;red&#34;&gt;因果链条&lt;/font&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;大多是业务结果数据，缺少产生这些数据的背景因果,典型例子是爸爸买尿布会同时买啤酒的因果&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;碎片化数据的关联和融合&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;实现碎片数据的自主、普适融合&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;font color=&#34;red&#34;&gt;农业、工业、&lt;/font&gt;服务业的应用&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;大多应用到服务业，农业和工业还没有广泛应用&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;与其他知识表示的协同表示于推理&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;大规模知识图谱与&lt;font color=&#34;red&#34;&gt;逻辑规则、概率图模型、隐变量&lt;/font&gt;结合;开放世界假设下的推理&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;常识知识的&lt;font color=&#34;red&#34;&gt;多模态数据&lt;/font&gt;获取和表示&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;常识匮乏的根本原因在于常识隐性蕴含于多模态数据中;知识的多模态表示&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;知识图谱应用透明化&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;无需用户了解知识图谱技术而直接应用，直接学习构建schema&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;font color=&#34;red&#34;&gt;文档级&lt;/font&gt;的信息抽取和自动生成&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;从句子级别抽取到篇章级别抽取，例如说明书;司法领域的裁判文书的自动生成&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h5 id=&#34;文档链接-https-pan-baidu-com-s-1j1t4nyopi6ndtpqkktnpug-提取码-tdm5&#34;&gt;&lt;a href=&#34;https://pan.baidu.com/s/1j1T4nYOPI6NdtPQKKtnpUg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;文档链接&lt;/a&gt;   提取码：tdm5&lt;/h5&gt;
+
+&lt;p&gt;&lt;h3 align=&#34;right&#34;&gt;THINK——2019.10.20 北理工知识图谱前沿技术论坛&lt;/h3&gt;
+&amp;emsp;&amp;emsp;这次去论坛让我受益颇多，但是最让我印象深刻不是知识图谱中前沿技术和发展，也不是惊叹于各界的大佬，而是一个现象和一位老师。北理工的一位老师（也是这次举办论坛的老师）谈论到北理工的图书馆有40多位老师，其中有3/4的老师是博士（更多地是惊叹于此），他们的工作就是上班整理整理书籍、刷刷手机，当然这已是常态没有惊奇的，还有一些则是接送孩子。这位老师在此走出图书馆，迈进了计算机学院，不过最后仍会走进图书馆，用知识图谱的技术、从平台化实践到中台化思考为图书馆提供知识服务，彻底颠覆图书馆（我很喜欢这句话），因为图书馆本身就是提供知识的思考地。（对应了计算智能到感知智能再到认知智能）&lt;br&gt;
+&amp;emsp;&amp;emsp;我对北京的印象，其实很早就想写了，只不过没有什么契机。北京是一个适合做梦的地方，不论是多夸张的梦、多滑稽的梦、多无聊的梦，因为它的包容性很强，不是有句话说海乃百川，有容乃大吗！北京是一个开放交流的地方，它让形形色色的人、事、物得于很好地交流和发展，有似中心一样聚集着大家。北京也是一个无可奈何的地方，你对它无可奈何，它对你有时也无可奈何，双方僵持着，僵持着，最终大多都是你妥协了，妥协其实也不对，是成长了。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Conference Paper</title>
@@ -34,47 +149,14 @@
 
 &lt;h2 id=&#34;1-acm-ieee等-下载论文全文要去-dl-的页面&#34;&gt;1、ACM、IEEE等，下载论文全文要去(DL)的页面&lt;/h2&gt;
 
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;机构&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Digital Library(DL)&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;机构Home&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Association for Computing Machinery, ACM&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;ACM Digital Library &lt;a href=&#34;https://dl.acm.org/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;https://dl.acm.org/&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;https://www.acm.org/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;https://www.acm.org/&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;IEEE Computer Society&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;IEEE Xplore DL &lt;a href=&#34;http://ieeexplore.ieee.org/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://ieeexplore.ieee.org/&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;https://www.computer.org/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;https://www.computer.org/&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Elsevier ScienceDirect&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.sciencedirect.com/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://www.sciencedirect.com/&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;https://www.elsevier.com/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;https://www.elsevier.com/&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Springer&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Springer Link &lt;a href=&#34;http://link.springer.com/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://link.springer.com/&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;http://www.springer.com/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://www.springer.com/&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Wiley&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Wiley Online Lib &lt;a href=&#34;http://onlinelibrary.wiley.com/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://onlinelibrary.wiley.com/&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;http://www.wiley.com/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://www.wiley.com/&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;机构 | Digital Library(DL) | 机构Home
+机遇挑战 | 描述
+&amp;mdash;|:&amp;mdash;&amp;ndash;:|&amp;mdash;&amp;mdash;:
+Association for Computing Machinery, ACM | ACM Digital Library &lt;a href=&#34;https://dl.acm.org/|https://www.acm.org/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;https://dl.acm.org/|https://www.acm.org/&lt;/a&gt;
+IEEE Computer Society | IEEE Xplore DL &lt;a href=&#34;http://ieeexplore.ieee.org/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://ieeexplore.ieee.org/&lt;/a&gt; | &lt;a href=&#34;https://www.computer.org/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;https://www.computer.org/&lt;/a&gt;
+Elsevier ScienceDirect | &lt;a href=&#34;http://www.sciencedirect.com/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://www.sciencedirect.com/&lt;/a&gt; | &lt;a href=&#34;https://www.elsevier.com/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;https://www.elsevier.com/&lt;/a&gt;
+Springer | Springer Link &lt;a href=&#34;http://link.springer.com/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://link.springer.com/&lt;/a&gt; | &lt;a href=&#34;http://www.springer.com/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://www.springer.com/&lt;/a&gt;
+Wiley | Wiley Online Lib &lt;a href=&#34;http://onlinelibrary.wiley.com/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://onlinelibrary.wiley.com/&lt;/a&gt; | &lt;a href=&#34;http://www.wiley.com/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://www.wiley.com/&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;2-谷歌搜索&#34;&gt;2、谷歌搜索&lt;/h2&gt;
 
