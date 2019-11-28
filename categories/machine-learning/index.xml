@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>@Machine Learning on My New Hugo Site</title>
+    <link>https://xiaolinfan.github.io/categories/machine-learning/</link>
+    <description>Recent content in @Machine Learning on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Nov 2019 20:22:18 +0800</lastBuildDate>
+    
+	<atom:link href="https://xiaolinfan.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EM Algorithm</title>
+      <link>https://xiaolinfan.github.io/2019/em_algorithm/</link>
+      <pubDate>Thu, 28 Nov 2019 20:22:18 +0800</pubDate>
+      
+      <guid>https://xiaolinfan.github.io/2019/em_algorithm/</guid>
+      <description>一、EM 算法 EM算法（期望最大算法）：一种从不完全数据或有数据丢失的数据集（存在隐含变量）中求解概率模型参数的最大似然估计方法。下面是一张来自Wikipedia的EM算法的聚类图。 二、EM 算法详细介绍 三、参考 [1] EM算法</description>
+    </item>
+    
+  </channel>
+</rss>
