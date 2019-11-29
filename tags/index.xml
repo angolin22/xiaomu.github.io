@@ -6,7 +6,7 @@
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Nov 2019 20:22:18 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2019 18:43:41 +0800</lastBuildDate>
     
 	<atom:link href="https://xiaolinfan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>EM</title>
       <link>https://xiaolinfan.github.io/tags/em/</link>
-      <pubDate>Thu, 28 Nov 2019 20:22:18 +0800</pubDate>
+      <pubDate>Fri, 29 Nov 2019 18:43:41 +0800</pubDate>
       
       <guid>https://xiaolinfan.github.io/tags/em/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>office active</title>
+      <link>https://xiaolinfan.github.io/tags/office-active/</link>
+      <pubDate>Fri, 29 Nov 2019 18:43:41 +0800</pubDate>
+      
+      <guid>https://xiaolinfan.github.io/tags/office-active/</guid>
       <description></description>
     </item>
     

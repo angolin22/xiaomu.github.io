@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>EM on My New Hugo Site</title>
-    <link>https://xiaolinfan.github.io/tags/em/</link>
-    <description>Recent content in EM on My New Hugo Site</description>
+    <title>office active on My New Hugo Site</title>
+    <link>https://xiaolinfan.github.io/tags/office-active/</link>
+    <description>Recent content in office active on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Nov 2019 18:43:41 +0800</lastBuildDate>
     
-	<atom:link href="https://xiaolinfan.github.io/tags/em/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xiaolinfan.github.io/tags/office-active/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://xiaolinfan.github.io/2019/kmspico/</guid>
       <description> 一、Office 安装 根据自己电脑配置下载安装对应版本的Office。软件链接 提取码：mw8e 二、KMSpico 激活 1. 下载KMSpico工具，最好把防火墙、电脑管家等关掉。工具链接 提取码：83nh 2. 解压文件后双击运行“KMSpico_setup.exe”进行安装 3. 安装完后回到解压之后的目录中运行压缩包中的“卸载服务.bat” 4. 找到KMSpico的安装路径，运行AutoPico.exe，结束之后，Office就激活成功了。 5. 打开Office 2016，点击文件&amp;ndash;&amp;gt;账户，查看Office已激活。 ——&amp;gt;reference： https://www.jianshu.com/p/e2662032db80 </description>
-    </item>
-    
-    <item>
-      <title>EM Algorithm</title>
-      <link>https://xiaolinfan.github.io/2019/em_algorithm/</link>
-      <pubDate>Thu, 28 Nov 2019 20:22:18 +0800</pubDate>
-      
-      <guid>https://xiaolinfan.github.io/2019/em_algorithm/</guid>
-      <description>一、EM 算法 EM算法（期望最大算法）：一种从不完全数据或有数据丢失的数据集（存在隐含变量）中求解概率模型参数的最大似然估计方法。下面是一张来自Wikipedia的EM算法的聚类图。 二、EM 算法详细介绍 三、参考 [1] EM算法</description>
     </item>
     
   </channel>
