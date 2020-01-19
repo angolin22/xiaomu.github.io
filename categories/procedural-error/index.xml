@@ -12,16 +12,16 @@
     
     
     <item>
-      <title>ErrorGoogle</title>
+      <title>Google错误及解决方法</title>
       <link>https://xiaolinfan.github.io/2019/errorgoogle/</link>
       <pubDate>Wed, 14 Aug 2019 17:01:18 +0800</pubDate>
       
       <guid>https://xiaolinfan.github.io/2019/errorgoogle/</guid>
-      <description>Error-2 1-1 Google installation failure — Uploading google isn&amp;rsquo;t complete so that installing isn&amp;rsquo;t success 1-2 Google installation failure resolution Firstly,delete google default files.then,copy the content of &amp;ldquo;http://www.google.com/support/chrome/bin/resource/remove.txt&amp;quot; into &amp;ldquo;.txt&amp;rdquo;.Finally, modify to &amp;ldquo;.reg&amp;rdquo; and implement. Windows Registry Editor Version 5.00 ; WARNING, this file will remove Google Chrome registry entries ; from your Windows Registry. Consider backing up your registry before ; using this file: http://support.microsoft.com/kb/322756 ; To run this file, save it as &#39;remove.</description>
+      <description>Error-1 1-1 Google installation failure — Uploading google isn&amp;rsquo;t complete so that installing isn&amp;rsquo;t success 1-2 Google installation failure resolution Firstly,delete google default files.then,copy the content of &amp;ldquo;http://www.google.com/support/chrome/bin/resource/remove.txt&amp;quot; into &amp;ldquo;.txt&amp;rdquo;.Finally, modify to &amp;ldquo;.reg&amp;rdquo; and implement. Windows Registry Editor Version 5.00 ; WARNING, this file will remove Google Chrome registry entries ; from your Windows Registry. Consider backing up your registry before ; using this file: http://support.microsoft.com/kb/322756 ; To run this file, save it as &#39;remove.</description>
     </item>
     
     <item>
-      <title>ErrortGit</title>
+      <title>Git错误及解决方法</title>
       <link>https://xiaolinfan.github.io/2019/errortgit/</link>
       <pubDate>Wed, 14 Aug 2019 11:09:19 +0800</pubDate>
       

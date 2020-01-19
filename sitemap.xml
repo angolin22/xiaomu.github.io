@@ -2,9 +2,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://xiaolinfan.github.io/categories/software/</loc>
+      <loc>https://xiaolinfan.github.io/2020/2020_summary/</loc>
       
-      <lastmod>2019-11-29T18:43:41+08:00</lastmod>
+      <lastmod>2020-01-18T18:18:28+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://xiaolinfan.github.io/categories/thoughts/</loc>
+      
+      <lastmod>2020-01-18T18:18:28+08:00</lastmod>
       
       
       
@@ -16,19 +26,7 @@
     <url>
       <loc>https://xiaolinfan.github.io/categories/</loc>
       
-      <lastmod>2019-11-29T18:43:41+08:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://xiaolinfan.github.io/tags/em/</loc>
-      
-      <lastmod>2019-11-29T18:43:41+08:00</lastmod>
+      <lastmod>2020-01-18T18:18:28+08:00</lastmod>
       
       
       
@@ -39,6 +37,66 @@
   
     <url>
       <loc>https://xiaolinfan.github.io/</loc>
+      
+      <lastmod>2020-01-18T18:18:28+08:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://xiaolinfan.github.io/posts/</loc>
+      
+      <lastmod>2020-01-18T18:18:28+08:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://xiaolinfan.github.io/tags/</loc>
+      
+      <lastmod>2020-01-18T18:18:28+08:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://xiaolinfan.github.io/tags/summary/</loc>
+      
+      <lastmod>2020-01-18T18:18:28+08:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://xiaolinfan.github.io/tags/thought/</loc>
+      
+      <lastmod>2020-01-18T18:18:28+08:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://xiaolinfan.github.io/categories/software/</loc>
       
       <lastmod>2019-11-29T18:43:41+08:00</lastmod>
       
@@ -60,30 +118,6 @@
     </url>
   
     <url>
-      <loc>https://xiaolinfan.github.io/posts/</loc>
-      
-      <lastmod>2019-11-29T18:43:41+08:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://xiaolinfan.github.io/tags/</loc>
-      
-      <lastmod>2019-11-29T18:43:41+08:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
       <loc>https://xiaolinfan.github.io/tags/office-active/</loc>
       
       <lastmod>2019-11-29T18:43:41+08:00</lastmod>
@@ -97,6 +131,18 @@
   
     <url>
       <loc>https://xiaolinfan.github.io/categories/machine-learning/</loc>
+      
+      <lastmod>2019-11-28T20:22:18+08:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://xiaolinfan.github.io/tags/em/</loc>
       
       <lastmod>2019-11-28T20:22:18+08:00</lastmod>
       
@@ -142,16 +188,6 @@
     </url>
   
     <url>
-      <loc>https://xiaolinfan.github.io/2019/kg_bit_1/</loc>
-      
-      <lastmod>2019-10-24T09:25:44+08:00</lastmod>
-      
-      
-      
-      
-    </url>
-  
-    <url>
       <loc>https://xiaolinfan.github.io/tags/forum/</loc>
       
       <lastmod>2019-10-24T09:25:44+08:00</lastmod>
@@ -176,19 +212,17 @@
     </url>
   
     <url>
-      <loc>https://xiaolinfan.github.io/categories/paperconferece/</loc>
+      <loc>https://xiaolinfan.github.io/2019/kg_bit_1/</loc>
       
-      <lastmod>2019-09-24T15:26:06+08:00</lastmod>
+      <lastmod>2019-10-24T09:25:44+08:00</lastmod>
       
       
-      
-      <priority>0</priority>
       
       
     </url>
   
     <url>
-      <loc>https://xiaolinfan.github.io/tags/conference/</loc>
+      <loc>https://xiaolinfan.github.io/categories/paperconferece/</loc>
       
       <lastmod>2019-09-24T15:26:06+08:00</lastmod>
       
@@ -205,6 +239,18 @@
       <lastmod>2019-09-24T15:26:06+08:00</lastmod>
       
       
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://xiaolinfan.github.io/tags/conference/</loc>
+      
+      <lastmod>2019-09-24T15:26:06+08:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
       
       
     </url>
@@ -227,6 +273,18 @@
       <lastmod>2019-08-14T17:01:18+08:00</lastmod>
       
       
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://xiaolinfan.github.io/tags/error/</loc>
+      
+      <lastmod>2019-08-14T17:01:18+08:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
       
       
     </url>
@@ -271,18 +329,6 @@
       <lastmod>2019-08-13T17:35:43+08:00</lastmod>
       
       
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://xiaolinfan.github.io/categories/movie-thoughts/</loc>
-      
-      <lastmod>2019-08-13T10:15:14+08:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
       
       
     </url>
